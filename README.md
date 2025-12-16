@@ -13,3 +13,5 @@ stats_NatNeuro.xlsx - Contains demographic information of all rats and statistic
 LSDstimPub.m - Contains code for analysis and figure generation of all LSD and SAL models.
   
 LSDstimMove.m - Contains code for analysis of movement data.
+
+Contact me for full dataset.
